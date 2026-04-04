@@ -25,6 +25,7 @@
 .hero-visual {
   position: relative;
   min-height: 520px;
+  
 }
 
 .hero-card {
@@ -42,7 +43,7 @@
 
 .hero-card-main {
   border-radius: 30px;
-  height: 520px;
+  height: 450px;
 }
 
 .hero-card-small {
